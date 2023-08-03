@@ -1,0 +1,13 @@
+.category{
+    list-style: none;
+    color: black;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 18px;
+
+}
+
+.title{
+    font-size: 16px;
+}
